@@ -29,4 +29,3 @@ public class ArithmeticTest {
         Arithmetic arith = new Arithmetic(4,2);
         Assert.assertEquals(arith.div(),2);
     }
-
