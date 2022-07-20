@@ -32,6 +32,6 @@ public class ArithmeticTest {
 
    @Test
     public void divTest() {
-        Arithmetic arith = new Arithmetic(4,2);
-        Assert.assertEquals(arith.div(),3);
+        Arithmetic arith = new Arithmetic(12,2);
+        Assert.assertEquals(arith.div(),6);
     }}
