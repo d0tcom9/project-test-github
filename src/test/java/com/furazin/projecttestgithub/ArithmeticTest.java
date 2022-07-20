@@ -30,8 +30,3 @@ public class ArithmeticTest {
         Assert.assertEquals(arith.div(),2);
     }
 
-   @Test
-    public void divTest() {
-        Arithmetic arith = new Arithmetic(12,2);
-        Assert.assertEquals(arith.div(),6);
-    }}
